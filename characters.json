@@ -1,0 +1,137 @@
+[
+  {
+    "id": "",
+    "firstName": "Jessica",
+    "middleName": "Christopher",
+    "lastName": "Day",
+    "nicknames": "Jebecca, Rebecca Johnson, Two-Boobs Johnson, Tiger Boobs, Jess Jess, Ivy, Loft Troll, Dirty J, Dr Day My Toilet Sister, Giggle Bangs Rice Bowl, Katie, Yolanda Winston, Toilet Pants, Joey, Trebecca, PJ",
+    "DOB": "13 Feb 1982",
+    "birthState": "Portland, Oregon",
+    "occupations": "middle school teacher, creative writing teacher, substitute teacher, vice principal, principal, director of education-based non-profit",
+    "portrayedBy": "Zooey Deschanel",
+    "episodeCount": "145"
+  },
+  {
+    "id": "",
+    "firstName": "Nicholas",
+    "middleName": "Sean",
+    "lastName": "Miller",
+    "nicknames": "Mountain Man, Nicholas, Turtle Face, Julius Pepperwood, Grumpy Mystery, Nicky, Nickels, Little Penis, Diarrhoea Head",
+    "DOB": "29 Sept 1981",
+    "birthCity": "Chicago, Illinois",
+    "occupations": "bartender, bar co-owner, author",
+    "portrayedBy": "Jake Johnson",
+    "episodeCount": "146"
+  },
+  {
+    "id": "",
+    "firstName": "Winston",
+    "middleName": "St Marie",
+    "lastName": "Schmidt",
+    "nicknames": "Schmidt, Sexy Santa, Tugg Romney, Schmidty, Big Guy",
+    "DOB": "17 Jul 1982",
+    "birthCity": "Long Island, New York",
+    "occupations": "head of marketing, stay at home dad",
+    "portrayedBy": "Max Greenfield",
+    "episodeCount": "146"
+  },
+  {
+    "id": "",
+    "firstName": "Cecilia",
+    "lastName": "Parikh",
+    "nicknames": "Cece",
+    "DOB": "23 Oct 1982",
+    "birthCity": "Portland, Oregon",
+    "occupations": "model, bartender, owner and manager of model management company",
+    "portrayedBy": "Max Greenfield",
+    "episodeCount": "146"
+  },
+  {
+    "id": "",
+    "firstName": "Winston",
+    "middleName": "L'Andre",
+    "lastName": "Bishop",
+    "nicknames": "Theodore K. Mullins, Brown Lightning, Winnie, Prank Sinatra, Winnie the Bish, The Bish, Courtroom Brown, Retired Rear Admiral Jay Garage-A-Roo, Shrimp Forks, Bunny Money, Kenneth, Rick Smits, Big Poppy Jones, Pontius Pilate, Toilet, Wilson, Snail Eyes",
+    "DOB": "2 May 1982",
+    "birthCity": "Chicago, Illinois",
+    "occupations": "basketball player, temp, nanny, radio assistant, radio personality, LAPD detective",
+    "portrayedBy": "Lamorne Morris",
+    "episodeCount": "145"
+  },
+  {
+    "id": "",
+    "firstName": "Ernie",
+    "lastName": "Tagliaboo",
+    "nicknames": "Coach",
+    "DOB": "17 June 1982",
+    "occupations": "personal trainer, health teacher/sports coach",
+    "portrayedBy": "Damon Wayans Jr.",
+    "episodeCount": "44"
+  },
+  {
+    "id": "",
+    "firstName": "Reagan",
+    "lastName": "Lucas",
+    "nicknames": "Raisin",
+    "occupations": "pharmaceutical salesperson",
+    "portrayedBy": "Megan Fox",
+    "episodeCount": "15"
+  },
+  {
+    "id": "",
+    "firstName": "Aly",
+    "lastName": "Nelson",
+    "nicknames": "Allison",
+    "occupations": "LAPD detective",
+    "portrayedBy": "Nasim Pedrad",
+    "episodeCount": "30"
+  },
+  {
+    "id": "",
+    "firstName": "Sadie",
+    "occupations": "OB/GYN",
+    "portrayedBy": "June Diane Raphael",
+    "episodeCount": "8"
+  },
+  {
+    "id": "",
+    "firstName": "Robert",
+    "lastName": "McFerrin",
+    "nicknames": "Robby",
+    "occupations": "factory designer",
+    "portrayedBy": "Nelson Franklin",
+    "episodeCount": "18"
+  },
+  {
+    "id": "",
+    "firstName": "Paul",
+    "lastName": "Genzlinger",
+    "nicknames": "Genzlinger, The Genz, Violin, Mercedes Genz, Genzel Washington, Goose",
+    "occupations": "music teacher, party clown",
+    "portrayedBy": "Justin Long",
+    "episodeCount": "5"
+  },
+  {
+    "id": "",
+    "firstName": "Sam",
+    "lastName": "Sweeney",
+    "nicknames": "Dr. Sam",
+    "occupations": "pediatrician",
+    "portrayedBy": "David Walton",
+    "episodeCount": "13"
+  },
+  {
+    "id": "",
+    "firstName": "Furguson",
+    "middleName": "Michael Jordan",
+    "lastName": "Bishop",
+    "nicknames": "Sweatshirt",
+    "occupations": "cat",
+    "portrayedBy": "Furguson"
+  },
+  {
+    "id": "",
+    "firstName": "Tran",
+    "portrayedBy": "Ralph Ahn"
+  }
+]

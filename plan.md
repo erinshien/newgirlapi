@@ -26,7 +26,7 @@
 2. Add `"start": "node index.js"` to `package.json` scripts ✅
 3. Add `"dev": "nodemon index.js"` to `package.json` scripts ✅
 
-### Link Files and Packages
+### Link Modules
 
 1. Import Express to `app.js` ✅
 2. Add lines to parse JSON -> [const app = express(); & app.use(express.json());] ✅
