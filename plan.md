@@ -4,27 +4,27 @@
 
 ### Initialise Project
 
-1. Generate my initial project with `npm init`
-2. Create a `.gitignore` file to include `node_modules`
+1. Generate my initial project with `npm init` ✅
+2. Create a `.gitignore` file to include `node_modules` ✅
 
 ### Install Packages
 
-1. Install nodemon as a development dependency with `npm install --save-dev nodemon`
-2. Install Express with `npm install express`
-3. Install UUID with `npm install uuid`
-4. Install morgan with `npm install morgan`
+1. Install nodemon as a development dependency with `npm install --save-dev nodemon` ✅
+2. Install Express with `npm install express` ✅
+3. Install UUID with `npm install uuid` ✅
+4. Install morgan with `npm install morgan` ✅
 
 ### Create Files
 
-1. Create JSON file to store the API's data
-2. Create `app.js` file to store the logic
-3. Create `index.js` file as default file
+1. Create JSON file to store the API's data ✅
+2. Create `app.js` file to store the logic ✅
+3. Create `index.js` file as default file ✅
 
 ### Update package.json File
 
-1. Add `"type": "module"` to `package.json`
-2. Add `"start": "node index.js"` to `package.json` scripts
-3. Add `"dev": "nodemon index.js"` to `package.json` scripts
+1. Add `"type": "module"` to `package.json` ✅
+2. Add `"start": "node index.js"` to `package.json` scripts ✅
+3. Add `"dev": "nodemon index.js"` to `package.json` scripts ✅
 
 ### Link Files and Packages
 
