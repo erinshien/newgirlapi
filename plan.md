@@ -37,23 +37,31 @@
 7. Import `app.js` to `index.js` ✅
 8. Add PORT to and `app.listen` function to `index.js` ✅
 
-## Generate Data
+## Generate Data ✅
 
 ## Create Requirements Table
 
-1. Write row for GET request - get all objects
-2. Write row for GET request - get object by id
-3. Write row for POST request - add new object
-4. Write row for PUT request - replace object
-5. Write row for PATCH request - update object
-6. Write row for DELETE request - delete object
+1. Write row for GET request - get all objects ✅
+2. Write row for GET request - get object by id ✅
+3. Write row for POST request - add new object ✅
+4. ~~Write row for PUT request - replace object~~
+5. Write row for PATCH request - update object ✅
+6. Write row for DELETE request - delete object ✅
+
+| HTTP Method | Path            | Request Body (JSON) | Response Body (JSON)    | Status Code | Description                               |
+| ----------- | --------------- | ------------------- | ----------------------- | ----------- | ----------------------------------------- |
+| GET         | /characters     | N/A                 | List of characters      | 200         | Retrieve all characters                   |
+| GET         | /characters/:id | N/A                 | A specific character    | 200         | Retrieve a specific character by their ID |
+| POST        | /characters/    | New character       | Newly created character | 201         | Create and add a new character            |
+| PATCH       | /characters/:id | Character updates   | Updated character       | 200         | Update an existing character              |
+| DELETE      | /characters/:id | N/A                 | Deleted character       | 200         | Delete an existing character              |
 
 ## Create Functions for Requirements
 
 1. Create function to return all objects
 2. Create function to return object by id
 3. Create function to add new object
-4. Create function to replace object by id
+4. ~~Create function to replace object by id~~
 5. Create function to update object by id
 6. Create function to delete object by id
 
@@ -62,7 +70,7 @@
 1. Create GET route handler
 2. Create GET by id route handler
 3. Create POST route handler
-4. Create PUT by id route handler
+4. ~~Create PUT by id route handler~~
 5. Create PATCH by id route handler
 6. Create DELETE by id route handler
 
