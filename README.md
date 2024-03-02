@@ -1,1 +1,1 @@
-# newgirlapi
+# The New Girl API
