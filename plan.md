@@ -28,13 +28,14 @@
 
 ### Link Files and Packages
 
-1. Import Express to `app.js`
-2. Add lines to parse JSON -> [const app = express(); & app.use(express.json());]
-3. Import UUID to `app.js`
-4. Import morgan to `app.js`
-5. Import JSON file to `app.js`
-6. Import `app.js` to `index.js`
-7. Add PORT to and `app.listen` function to `index.js`
+1. Import Express to `app.js` ✅
+2. Add lines to parse JSON -> [const app = express(); & app.use(express.json());] ✅
+3. Import fs module from node ✅
+4. Import UUID to `app.js` ✅
+5. Import morgan to `app.js` ✅
+6. Import JSON file to `app.js` ✅
+7. Import `app.js` to `index.js` ✅
+8. Add PORT to and `app.listen` function to `index.js` ✅
 
 ## Generate Data
 
