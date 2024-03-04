@@ -35,7 +35,7 @@
 5. Import morgan to `app.js` ✅
 6. Import JSON file to `app.js` ✅
 7. Import `app.js` to `index.js` ✅
-8. Add PORT to and `app.listen` function to `index.js` ✅
+8. Add PORT to and `app.listen` function to `app.js` ✅
 
 ## Generate Data ✅
 
@@ -52,20 +52,26 @@
 | ----------- | --------------- | ------------------- | ----------------------- | ----------- | ----------------------------------------- |
 | GET         | /characters     | N/A                 | List of characters      | 200         | Retrieve all characters                   |
 | GET         | /characters/:id | N/A                 | A specific character    | 200         | Retrieve a specific character by their ID |
-| POST        | /characters/    | New character       | Newly created character | 201         | Create and add a new character            |
+| POST        | /characters     | New character       | Newly created character | 201         | Create and add a new character            |
 | PATCH       | /characters/:id | Character updates   | Updated character       | 200         | Update an existing character              |
 | DELETE      | /characters/:id | N/A                 | Deleted character       | 200         | Delete an existing character              |
 
 ## Create Functions for Requirements
 
-1. Create function to return all objects
-2. Create function to return object by id
-3. Create function to add new object
+Working File: `characters.js`
+
+1. Create function to return all objects - `export async function getCharacters() {}`
+2. Create function to return object by id - `export async function getCharacterByID() {}`
+3. Create function to add new object - `export async function createCharacter() {}`
 4. ~~Create function to replace object by id~~
-5. Create function to update object by id
-6. Create function to delete object by id
+5. Create function to update object by id - `export async function updateCharacterByID() {}`
+6. Create function to delete object by id - `export async function deleteCharacterByID() {}`
+
+7. Import these functions to `app.js`
 
 ## Create Route Handlers
+
+Working File: `app.js`
 
 1. Create GET route handler
 2. Create GET by id route handler
